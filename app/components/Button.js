@@ -25,10 +25,9 @@ const styles = StyleSheet.create({
     marginVertical: 10,
   },
   text: {
+    fontFamily: "Tajawal_Bold",
     color: colors.white,
     fontSize: 18,
-    textTransform: "uppercase",
-    fontWeight: "bold",
   },
 });
 
